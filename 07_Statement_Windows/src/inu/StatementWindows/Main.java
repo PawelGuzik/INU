@@ -1,12 +1,9 @@
-package inu.git;
+package inu.StatementWindows;
 
 import javafx.stage.Stage;
-import inu.git.StatementWindows.MessageBoxButton;
-import inu.git.StatementWindows.MessageBoxIcon;
-import inu.git.StatementWindows.MessageBoxResult;
+import inu.StatementWindows.StatementWindows.MessageBoxButton;
+import inu.StatementWindows.StatementWindows.MessageBoxIcon;
 import javafx.application.Application;
-import javafx.scene.Scene;
-import javafx.scene.layout.BorderPane;
 
 public class Main extends Application {
 
